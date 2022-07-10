@@ -1,0 +1,43 @@
+
+.img_2{
+float: left;
+}
+
+
+.img_3{
+    float: right;
+}
+
+.img_4{
+    float: right;
+}
+
+.img_5{
+    float:left;
+}
+
+.teddy{
+    
+    float: left;
+    
+}
+
+.list{
+    text-decoration: none;
+}
+
+.button{
+
+    align-items: center;
+}
+
+.fresh{
+    float: left;
+}
+
+.img_1{
+    float: left;
+}
+ .list a{
+    font-weight: bold;
+ }
